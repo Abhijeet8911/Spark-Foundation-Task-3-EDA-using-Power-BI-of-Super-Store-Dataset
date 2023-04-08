@@ -2,7 +2,7 @@
 
 ## Overview
 The superstore data consists of sales, profit, ROS, and quantity sold of different categories and sub-categories.
-![Superstore Dashboard](https://user-images.githubusercontent.com/88017168/230705089-098cb55a-1539-4f6d-b23c-5b5793387c35.png)
+![Super store Dashboard](https://user-images.githubusercontent.com/88017168/230705307-eb5ca922-2697-44c2-a312-f72cf38d28cb.png)
 
 ```
 Ship Mode: Mode of Shipping
