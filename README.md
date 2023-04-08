@@ -2,6 +2,8 @@
 
 ## Overview
 The superstore data consists of sales, profit, ROS, and quantity sold of different categories and sub-categories.
+![Superstore Dashboard](https://user-images.githubusercontent.com/88017168/230705089-098cb55a-1539-4f6d-b23c-5b5793387c35.png)
+
 ```
 Ship Mode: Mode of Shipping
 Segment: Super Store segments Belongs to Consumer, Corporate & Home office
